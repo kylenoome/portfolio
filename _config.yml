@@ -57,7 +57,7 @@ collections:
     output          : true
 
 # 3. Comment settings（disqus.com）
-disqus_username     : akiritsu
+disqus_username     : kylenoome
 
 # 4. Default page settings (WILL BE overwriten by front-matters of a page)
 defaults:
