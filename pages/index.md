@@ -11,7 +11,6 @@ author: ""
 encrypted_text: true
 permalink: /
 ---
-{{site.collection_order[0]}}
 
 ```python
  /$$   /$$           /$$                 /$$   /$$                                            
