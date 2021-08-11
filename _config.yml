@@ -1,13 +1,11 @@
 # 1. Site Settings
-title               : pRoJEct-VeXEd
-owner               : "DeerRIDER"
-## url                : "https://akiritsu.github.io"
-## baseurl            : "/pRoJEct-VeXEd"
+title               : kylenoome
+owner               : "I see you"
 permalink           : /:title/
-description         : "A hacker-style note-keeping website template."
+description         : "SSBsaWtlIHRvIGJyZWFrIHN0dWZmLg=="
 markdown            : kramdown
-statement           : "Designed by DeerRIDER, All Rights Reserved"
-bgtext              : "ABCFGHKLMNPQRSVWXYZabcdefghijklmnopqrstuvwxyz@#$%&*+-;/[]<>~" # texts randomly displayed in background
+statement           : "Don't get lost in my world"
+bgtext              : "kylenoome" # texts randomly displayed in background
 
 # 2. Your Collections
 # You can specify the order shown in Archive window. 
