@@ -31,7 +31,7 @@ permalink: /
 > pRoJEct-NeGYa is a hacker-like, personal-website or CV.
 
 ##  Wokring on 
-* wokring on things
+* Overpass THM CTF
 <div style="color: rgb(233, 32, 32)">
 $$
 NADH+Q+5\;H_{matrix}^{+}\rightarrow NAD^{+}+QH_{2}+4\;H_{intermembrane}^{+}\!
