@@ -30,7 +30,7 @@ permalink: /
 <br>
 > pRoJEct-NeGYa is a hacker-like, personal-website or CV.
 
-##  Wokring on 
+##  Working on 
 * Overpass THM CTF
 <div style="color: rgb(233, 32, 32)">
 $$
