@@ -30,10 +30,8 @@ permalink: /
 <br>
 > pRoJEct-NeGYa is a hacker-like, highly-customizable theme for note-keeping, personal-website or CV.
 
-##  Features
-* Highly customizable with user-friendly hacker-like design.
-* Easy to gather your notes or portfolios with multiple collection design.
-* Supports formula insertion with `MathJax`.
+##  Wokring on 
+* wokring on things
 <div style="color: rgb(233, 32, 32)">
 $$
 NADH+Q+5\;H_{matrix}^{+}\rightarrow NAD^{+}+QH_{2}+4\;H_{intermembrane}^{+}\!
