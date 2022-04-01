@@ -28,7 +28,7 @@ permalink: /
 
 
 <br>
-> pRoJEct-NeGYa is a hacker-like, highly-customizable theme for note-keeping, personal-website or CV.
+> pRoJEct-NeGYa is a hacker-like, personal-website or CV.
 
 ##  Wokring on 
 * wokring on things
